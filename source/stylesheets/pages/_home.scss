@@ -1,5 +1,5 @@
 #home {
-  background-color: #D23333;
+  // background-color: #D23333;
   color: white;
   height: 100vh;
   display: flex;
@@ -14,4 +14,16 @@
     font-weight: bold;
     font-size: 16px;
   }
+}
+
+.card-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  margin-top: 25px
+}
+
+h2 {
+
+
 }
